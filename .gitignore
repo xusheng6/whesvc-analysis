@@ -1,0 +1,16 @@
+# Microsoft binaries and anything derived from them — not redistributed.
+binary/
+resources/
+unpacked/
+disasm/
+*.dll
+*.pdb
+*.etl
+*.luac
+
+# Python
+__pycache__/
+*.pyc
+
+# Binary Ninja
+*.bndb
