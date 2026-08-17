@@ -8,7 +8,7 @@ It isn't. It is a sandboxed **Lua 5.4 interpreter running as SYSTEM**, with 84 c
 Lua scripts shipped in a resource-only DLL, and a native API surface considerably wider
 than a performance optimizer needs.
 
-Blog post: **[Windows' Performance Optimizer Is More Capable Than It Needs to Be](https://jeffli678.github.io/posts/reversing/whesvc/)**
+Blog post: **[Windows' Performance Optimizer Is More Capable Than It Needs to Be](https://xusheng.dev/posts/reversing/whesvc/main/)**
 Full writeup: [`docs/ANALYSIS.md`](docs/ANALYSIS.md)
 
 ## What's here
